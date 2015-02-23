@@ -1,3 +1,4 @@
+##Wind Systems
 1. Fold paper and have students draw water cycle diagram on one side
 2. Show image of complicated water cycle diagram: http://water.usgs.gov/edu/downloads/watercycle/watercycle.jpg
 3. Talk about complexity and how it make the world more interesting
@@ -12,7 +13,8 @@
   *https://www.youtube.com/watch?v=mcPs_OdQOYU&list=PLjvgBS9Ay_ev9WU2OjIVPrBSI_t2WegfW&index=9
 10. Read intoduction section on weather and show tools
 11. Ask students what is sometimes, but not always, wet in the morning. (grass, windows, etc...)
-DEW POINT LAB
+
+##DEW POINT LAB
 12. Read intro section on lab.
 13. Reread section in textbook on Dew Point
 14. Watch this video (which sucks): https://www.youtube.com/watch?v=DjQMfOyxJms
@@ -21,9 +23,9 @@ DEW POINT LAB
 17. Share with desk partner.
 18. Discuss what really needs to be measured (Temp/Dew Point, Three trials, Total, and Average)
 19. Show students how to make data table and allow them to copy it down.
-*------------------------*
+
 | Trial | Dew Point (*F) |
-|------------------------|
+|:----------------------:|
 |  #1   |                |
 |------------------------|
 |  #2   |                |
