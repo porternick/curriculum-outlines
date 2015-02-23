@@ -32,8 +32,8 @@ Here is a link to a YouTube playlist I curate which will be useful when teaching
   4.  Other Objects
     1.  Meteors, Comets, and Asteroids
     2.  Asteroid Belt
-        3.  Kuiper Belt & Oort Cloud
-        4.  Pluto and other dwarf planets
+    3.  Kuiper Belt & Oort Cloud
+    4.  Pluto and other dwarf planets
 
 4.  Stars and the Sun:
   1.  Formation
