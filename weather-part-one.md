@@ -23,6 +23,7 @@
 17. Share with desk partner.
 18. Discuss what really needs to be measured (Temp/Dew Point, Three trials, Total, and Average)
 19. Show students how to make data table and allow them to copy it down.
+
  Trial | Dew Point 
  --- | ---
  1 |
@@ -30,4 +31,5 @@
  3 |
  Total |
  Avgerage |
+
 20. Do lab/questions/aha! page.
