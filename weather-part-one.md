@@ -24,11 +24,16 @@
 18. Discuss what really needs to be measured (Temp/Dew Point, Three trials, Total, and Average)
 19. Show students how to make data table and allow them to copy it down.
 
-Trial|Dew Point(F)
-1|
-2|
-3|
-Total|
-Avgerage|
+Trial | Dew Point(F)
+1 |
+2 |
+3 |
+Total |
+Avgerage |
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 20. Do lab/questions/aha! page.
