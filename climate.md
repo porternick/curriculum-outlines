@@ -27,6 +27,6 @@ Here is a youtube playlist to get started:
         1. FYI: http://www.desmogblog.com/heartland-institute-tricked-video-subject-in-unstoppable-solar-cycles
                 http://insideclimatenews.org/news/20120314/heartland-institute-climate-change-skepticism-science-education-experts-david-wojick-ipcc-kyoto-protocol
     2.  ON DVD: An Inconvenient Truth
-  7.  After watching both videos on the DVD, I ask the students to reveiw their notes. I then ask them if both videos use pathos, ethos and logos (yes) AND what the difference is between the two videos.
+  6.  After watching both videos on the DVD, I ask the students to reveiw their notes. I then ask them if both videos use pathos, ethos and logos (yes) AND what the difference is between the two videos.
 5.  Read Chapter 17, Section 2
 6.  New Mexico Climates Map Activity
