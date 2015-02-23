@@ -1,4 +1,3 @@
-Stream of activities and resources in order used:
 1. Fold paper and have students draw water cycle diagram on one side
 2. Show image of complicated water cycle diagram: http://water.usgs.gov/edu/downloads/watercycle/watercycle.jpg
 3. Talk about complexity and how it make the world more interesting
@@ -8,9 +7,9 @@ Stream of activities and resources in order used:
 7. Read about global wind systems
 8. Corriolis Globe demonstration with marker.
 9. Talk about how the coriolis affect is difficult to understand and watch these videos
-https://www.youtube.com/watch?v=Wda7azMvabE&list=PLjvgBS9Ay_ev9WU2OjIVPrBSI_t2WegfW&index=7
-https://www.youtube.com/watch?v=mcPs_OdQOYU&list=PLjvgBS9Ay_ev9WU2OjIVPrBSI_t2WegfW&index=8
-https://www.youtube.com/watch?v=mcPs_OdQOYU&list=PLjvgBS9Ay_ev9WU2OjIVPrBSI_t2WegfW&index=9
+  *https://www.youtube.com/watch?v=Wda7azMvabE&list=PLjvgBS9Ay_ev9WU2OjIVPrBSI_t2WegfW&index=7
+  *https://www.youtube.com/watch?v=mcPs_OdQOYU&list=PLjvgBS9Ay_ev9WU2OjIVPrBSI_t2WegfW&index=8
+  *https://www.youtube.com/watch?v=mcPs_OdQOYU&list=PLjvgBS9Ay_ev9WU2OjIVPrBSI_t2WegfW&index=9
 10. Read intoduction section on weather and show tools
 11. Ask students what is sometimes, but not always, wet in the morning. (grass, windows, etc...)
 DEW POINT LAB
