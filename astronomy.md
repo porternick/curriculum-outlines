@@ -4,7 +4,7 @@ First of all, do what you want! If you have experience teaching Astronomy, or an
 
 Second, in lieu of a day-by-day plan, I've gathered an abundance of resources that you can choose to use from. The resources are located under the TV in my classroom. Below I have outlined a progression that I might use if I was teaching this unit. There is no set amount of material that I am expecting you to teach. Don't worry about "keeping pace" or not making it "through" the curriculum. With that said, I have found that a class which is busy with work has less time for shenanigans to occur. While good teaching can not solve all behavior problems, it can avoid some of them.
 
-Lastly, I've made some copies for you already and they should be next to the books on the desk under the television. These are stand-alone(ish) activities/worksheets that you could use if you did have much time to prepare.
+Lastly, I've made some copies for you already and they should be next to the books on the desk under the television. These are stand-alone(ish) activities/worksheets that you could use if you did not have much time to prepare.
 
 #PROPOSED OUTLINE FOR TEACHING ASTRONOMY
 
