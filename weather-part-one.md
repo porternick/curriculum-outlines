@@ -33,3 +33,27 @@
  Avgerage |
 
 20. Do lab/questions/aha! page.
+
+##Relative Humidity Lab
+##Atmosphere Jeopardy, review game.
+##Clouds
+1. Give students the 1/4 sheet cloud cards.
+2. Read about clouds in the text book.
+3.  Put the students in groups and give out cloud flash cards (Nick has them).
+4.  Give them time to study.
+5.  Play Clouds Jeopardy.
+
+##Weather Log and Forecasting
+1.  Distribute and go over weather log.
+2. Use *http://www.forecast.io* to obtain weather data each day with class. 
+3. After seven days, I have the students review the log and make predictions for the next three days.
+4. Read the section in the textbook on Weather Forecasting.
+5. Have students read the two handouts about forecasting in small groups. They read for 15 minutes and then switched.
+  1. How to Forecast Weather? Without Gadgets
+  2. Weather Proverbs
+  3.At the end of each 15 mintues, I had the students identify something from the readings that they thought was interesting and share it with the class.
+
+##Weather Map Symbols BINGO
+13. New Mexico Weather Map
+14. First with the Forecast
+15. Hurricanes Tracking
