@@ -17,6 +17,8 @@ Here is a link to a YouTube playlist I curate which will be useful when teaching
 
 1.  Seasons: I've found that studying the cause of the seasons is an excellent transition from studying weather and climate to studying astronomy. The book "The Real Reasons for Seasons" is an excellent resource which includes background information for the teacher, and many valuable classroom activities. It also includes a pre- and post-survey to help students evaluate how their understandings change. Here is a little video that demonstrates how little Americans know about the causes of the seasons: https://www.youtube.com/watch?v=p0wk4qG2mIg . If you show this to the students, I would stop the video before they begin to explain the real cause of the seasons.
 
+  Day 1: Sun Earth Survey, Collect Data, Process into graphs
+  Day 2 & 3: Causes of the seasons quick write (50 words) for 10 minutes, add drawing for 15 minutes, share with partner, underline common ideas. Name that season, have students write four things that happen in each season, then share them with class one at a time. Sun Earth model with push pin (earth) and ~30cm circle (sun), they should be 30 meters away from eachother, Ellipses and Earth's orbit.
 
 2.  Moon:
   1.  Formation
